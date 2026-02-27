@@ -50,4 +50,4 @@ python advanced_yoga_guide.py
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by 
