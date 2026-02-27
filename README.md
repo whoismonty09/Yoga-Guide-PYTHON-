@@ -1,4 +1,4 @@
-# 🧘Yoga Pose Guide App (Python)
+# 🧘Yoga Pose Guide (Python)
 
 ## 📌 Project Overview
 This project is a Python based Advanced Yoga Pose Guide application that recommends yoga poses according to user yoga experience and body flexibility. It provides basic intermediate and advanced yoga poses with instructions and health benefits.
